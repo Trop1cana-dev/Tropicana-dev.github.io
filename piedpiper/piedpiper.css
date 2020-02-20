@@ -1,0 +1,312 @@
+* {
+	box-sizing: border-box;
+
+}
+
+
+.header {
+
+ 	background-color: #3c8061;
+ 	height: 50px;
+ 	width: 1219px;
+ 	position: absolute;
+
+}
+
+
+.inheader {
+	position: relative;
+	left: 10%;
+	top: 10px;
+	font-size: 25px;
+
+	font-family: screaming_neon, sans-serif;
+	color: white;
+}
+
+.inheader-2 {
+	position: absolute;
+	left: 65%;
+	font-size: 17px;
+	top: 15px;
+	font-family: sans-serif;
+	color: white;
+}
+
+
+.picture-1 {
+position: absolute;
+padding-top: 50px;
+}
+
+
+.pictext {
+	position: relative;
+	top: 200px;
+	left: 370px;
+	font-size: 60px;
+	font-family: screaming_neon, sans-serif;
+ 	color: white;
+}
+
+.incontent {
+	width: 1219px;
+	position: relative;
+	top: 350px;
+	line-height: 1;
+	padding: 0 30px;
+	margin-bottom: 50px;
+}
+
+p {
+	width: 1219px;
+	text-align: center;
+	color: #3c8061;
+	font-size: 50px;
+	font-family:  Monsterrat, sans-serif;;
+}  
+
+article {
+	margin-right: 20px;
+	margin-left: 20px;
+	text-align: left;
+	color: black;
+	font-size: 35px;
+	font-family:  Monsterrat, sans-serif;;
+}  
+
+
+
+.picture-2 {
+	position: absolute;
+	top: 1150px;
+	width: 1219px;
+}
+
+.picture-3 {
+	position: absolute;
+	top: 1300px;
+	margin-left: 150px;
+}
+
+.incontent-3 {
+	position: relative;
+}
+
+
+
+.intro {
+	position: relative;
+	font-size: 32px;
+	top: 900px;
+}
+
+.incontent-4 {
+	position: absolute;
+	margin-bottom: 
+}
+
+  
+.intro-2 {
+	width: 1219px;	
+	line-height: 1;
+	padding: 0 30px;
+	text-align: center;
+}
+
+.intro-3 {
+	width: 1219px;	
+	line-height: 1;
+	padding: 0 30px;
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+.teamhead {
+	font-size: 32px; 
+	margin-top: 900px;
+	margin-right: 50px;
+	position: relative;
+	
+}
+
+.teamplay {
+	position: relative;
+	max-height: 458px;
+
+}
+
+.hendrix {
+	margin-left: 70px;
+	position: 
+
+}
+
+.rich {
+	color: #3c8061; 
+	font-family:  Monsterrat, sans-serif;
+	font-size: 30px;
+	position: relative; 
+	left: -38px;
+
+}
+
+.hend { 
+	position: relative;
+	font-size: 20px;
+	font-family: sans-serif;
+	left: 9px;
+ }
+
+.denchug {
+	
+	align-content: center;
+	top: -230px;
+	position: relative;
+	left: 500px;
+}
+
+.denish {
+	color: #3c8061; 
+	font-family:  Monsterrat, sans-serif;
+	font-size: 30px;
+	position: relative; 
+	left: -30px;
+}
+
+.chugtai {
+	position: relative;
+	font-size: 20px;
+	font-family: sans-serif;
+	left: -5px;
+}
+
+.bertgil {
+	align-content: center;
+	top: -460px;
+	position: relative;
+	left: 900px;
+}
+
+.bertram {
+	color: #3c8061; 
+	font-family:  Monsterrat, sans-serif;
+	font-size: 30px;
+	position: relative; 
+	left: -20px;
+}
+
+.gilfoyle {
+	position: relative;
+	font-size: 20px;
+	font-family: sans-serif;
+	left: -15px;
+}
+
+.jaredunn {
+	position: relative;
+	top: -400px;
+	left: 70px;
+}
+
+.jared { 
+	color: #3c8061; 
+	font-family:  Monsterrat, sans-serif;
+	font-size: 30px;
+	position: relative;
+}
+
+.dunn {
+	position: relative;
+	font-size: 20px;
+	font-family: sans-serif;
+	left: -20px;
+}
+
+.monhall {
+	position: relative;
+	top: -629px; 
+	left: 500px; 
+}
+ 
+.monica { 
+	color: #3c8061; 
+	font-family:  Monsterrat, sans-serif;
+	font-size: 30px;
+	position: relative;
+ }
+
+.hall {
+	position: relative;
+	font-size: 20px;
+	font-family: sans-serif;
+	left: -20px;
+
+}
+
+.nelbig {
+	position: relative;
+	top: -865px; 
+	left: 900px; 
+}
+
+.nelson {
+	color: #3c8061; 
+	font-family:  Monsterrat, sans-serif;
+	font-size: 30px;
+	position: relative;
+	left: -15px;
+}
+
+.bighetti {
+	position: relative;
+	font-size: 20px;
+	font-family: sans-serif;
+	left: 10px;
+}
+
+.fon {
+	background-color: #333333; 
+	position: absolute;
+	top: -100px;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	position: right
+
+}
+
+.trademarks { 
+	background-color: #333333;
+	font-size: 30px; 
+	width: 1219px;
+	padding-right: 100px;
+	padding-left: 100px;
+	text-align: center;
+	font-family: sans-serif;
+	color: white;
+	top: -500px;
+ }
+
+
+.konec {
+	position: relative;
+	top: -700px;
+}
+
+a.tr {
+	text-decoration: none;
+	color: white;
+}
+
+a.pp {
+	text-decoration: none;
+	color: white;
+}
+
+a.tt {
+	text-decoration: none;
+	color: white;
+}
+
+
+
